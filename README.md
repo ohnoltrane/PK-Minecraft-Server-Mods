@@ -5,9 +5,8 @@ PK Minecraft server has proximity voicechat. The server is playable with vanilla
 
 # Install Fabric addon
 1. Fabric installer link: https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.1.0/fabric-installer-1.1.0.exe
-
-Run installer:
-- version: 1.21.10
+2. Run installer:
+-- version: 1.21.10
 - loader version: 0.17.3
 
 2: install voice chat mod
