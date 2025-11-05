@@ -18,5 +18,5 @@ PK Minecraft server has proximity voicechat. The server is playable with vanilla
 
 # Launch Minecraft 
 
-Launch with Fabric profile, voicechat will work automatically.
+Launch with Fabric profile, voicechat will work automatically when you join the server.
 <img width="1276" height="745" alt="Screenshot 2025-11-05 190335 last" src="https://github.com/user-attachments/assets/53c1e92d-85e3-49cb-a820-92c5f5bed538" />
