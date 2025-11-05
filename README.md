@@ -23,7 +23,7 @@ Launch with **Fabric** profile, voicechat will work automatically when you join 
 
 <img width="1276" height="745" alt="Screenshot 2025-11-05 190335 last" src="https://github.com/user-attachments/assets/53c1e92d-85e3-49cb-a820-92c5f5bed538" />
 
-## 💡 Notes
+## Notes
 - Client version must be latest. (Current: **Minecraft 1.21.10**)
 - Setup voicechat by pressing "v" on join
 - Ensure “Simple Voice Chat” is enabled in the **Mods** menu
