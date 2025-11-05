@@ -4,17 +4,19 @@ PK Server Voice Chat mod download
 PK Minecraft server has proximity voicechat. The server is playable with vanilla launcher but if you want to use the voicechat, follow the steps below.
 
 # Install Fabric addon
-1. Fabric installer link: https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.1.0/fabric-installer-1.1.0.exe
+1. [Fabric installer direct link](https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.1.0/fabric-installer-1.1.0.exe)
 2. Run installer:
--- version: 1.21.10
+- version: 1.21.10
 - loader version: 0.17.3
+<img width="424" height="249" alt="image" src="https://github.com/user-attachments/assets/1bcac0db-b566-4e49-b181-915ca30ba863" />
 
-2: install voice chat mod
+# Install Simple Voice Chat mod
 
-voice chat mod direct link: https://cdn.modrinth.com/data/9eGKb6K1/versions/BjR2lc4k/voicechat-fabric-1.21.10-2.6.6.jar
+1. [Simple Voice Chat Direct install link](https://cdn.modrinth.com/data/9eGKb6K1/versions/BjR2lc4k/voicechat-fabric-1.21.10-2.6.6.jar)
+2. Move "voicechat-fabric-1.21.10-2.6.6.jar" file to your Minecraft mods folder. e.g., "C:\Users\<YourName>\AppData\Roaming\.minecraft\mods"
+<img width="1550" height="794" alt="Screenshot 2025-11-05 185605" src="https://github.com/user-attachments/assets/9b711a12-5329-4f3b-8909-8de292872452" />
 
-move .jar file to your Minecraft mods folder. e.g., "C:\Users\<YourName>\AppData\Roaming\.minecraft\mods"
+# Launch Minecraft 
 
-3: launch Minecraft 
-
-launch with Fabric profile, voice chat should just work in the server
+Launch with Fabric profile, voicechat will work automatically.
+<img width="1276" height="745" alt="Screenshot 2025-11-05 190335 last" src="https://github.com/user-attachments/assets/53c1e92d-85e3-49cb-a820-92c5f5bed538" />
