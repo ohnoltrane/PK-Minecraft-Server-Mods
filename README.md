@@ -3,8 +3,8 @@ PK Server Voice Chat mod download
 
 PK Minecraft server has proximity voicechat. The server is playable with vanilla launcher but if you want to use the voicechat, follow the steps below.
 
-# 1: Install Fabric addon
-- Fabric installer link: https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.1.0/fabric-installer-1.1.0.exe
+# Install Fabric addon
+1. Fabric installer link: https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.1.0/fabric-installer-1.1.0.exe
 
 Run installer:
 - version: 1.21.10
