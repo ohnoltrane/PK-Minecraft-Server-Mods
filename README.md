@@ -1,7 +1,7 @@
 # PK Minecraft Server Mods
 **Proximity Voice Chat setup for PK Server**
 
-PK Minecraft server has proximity voicechat. The server is playable with vanilla launcher but if you want to **use voicechat**, follow the steps below. 
+PK Minecraft server has proximity voicechat. The server is playable with vanilla launcher but if you want to **use voicechat**, follow the steps below.<br>
 *Takes 5 mins max.*
 
 ## Install Fabric
