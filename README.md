@@ -12,8 +12,8 @@ PK Minecraft server has proximity voicechat. The server is playable with vanilla
 
 # Install Simple Voice Chat mod
 
-1. [Simple Voice Chat Direct Install Link](https://cdn.modrinth.com/data/9eGKb6K1/versions/BjR2lc4k/voicechat-fabric-1.21.10-2.6.6.jar) [[Alternative Download](https://github.com/ohnoltrane/PK-Minecraft-Server-Mods/blob/main/voicechat-fabric-1.21.10-2.6.6.jar)]
-2. Press Win + R, type %appdata%\.minecraft\mods, and press Enter. Move "voicechat-fabric-1.21.10-2.6.6.jar" file to your Minecraft mods folder. e.g., "C:\Users\<YourName>\AppData\Roaming\.minecraft\mods"
+1. [Voice Chat Direct Install Link](https://cdn.modrinth.com/data/9eGKb6K1/versions/BjR2lc4k/voicechat-fabric-1.21.10-2.6.6.jar) [[Alternative Download](https://github.com/ohnoltrane/PK-Minecraft-Server-Mods/blob/main/voicechat-fabric-1.21.10-2.6.6.jar)]
+2. Press Win + R, type %appdata%\.minecraft\mods, and move the downloaded file (voicechat-fabric.jar) to this folder. e.g., "C:\Users\<YourName>\AppData\Roaming\.minecraft\mods"
 <img width="1550" height="794" alt="Screenshot 2025-11-05 185605" src="https://github.com/user-attachments/assets/9b711a12-5329-4f3b-8909-8de292872452" />
 
 # Launch Minecraft 
