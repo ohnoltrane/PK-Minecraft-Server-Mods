@@ -41,7 +41,6 @@ Launch with **Fabric** profile, voicechat will work automatically when you join 
 2. Move the mod into your Minecraft mods folder:
    - Open Finder and press ⌘ + Shift + G
    - Type `~/Library/Application Support/minecraft/mods`, and drag the downloaded file to the folder. (e.g. "~/Library/Application Support/minecraft/mods/")
-![Uploading Screenshot 2025-11-08 at 4.40.03 AM move vc.png…]()
 
 ## Launch Minecraft 
 
