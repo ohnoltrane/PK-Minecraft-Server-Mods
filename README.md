@@ -34,14 +34,14 @@ Launch with **Fabric** profile, voicechat will work automatically when you join 
 2. Run installer with these settings:
    - Minecraft Version: 1.21.10
    - Loader Version: 0.17.3
-<img width="424" height="249" alt="image" src="https://github.com/user-attachments/assets/1bcac0db-b566-4e49-b181-915ca30ba863" />
+<img width="708" height="408" alt="Screenshot 2025-11-08 at 4 33 25 AM fabic" src="https://github.com/user-attachments/assets/2ac31d0b-e577-4a2b-b930-9eae4d1608ee" />
 
 ## Install Simple Voice Chat mod
 1. Download Voice Chat mod: [Direct Link](https://cdn.modrinth.com/data/9eGKb6K1/versions/BjR2lc4k/voicechat-fabric-1.21.10-2.6.6.jar) [[Alternative Download](https://github.com/ohnoltrane/PK-Minecraft-Server-Mods/blob/main/voicechat-fabric-1.21.10-2.6.6.jar)]
 2. Move the mod into your Minecraft mods folder:
-   - Press ⌘ + Shift + G
+   - Open Finder and press ⌘ + Shift + G
    - Type `~/Library/Application Support/minecraft/mods`, and drag the downloaded file to the folder. (e.g. "~/Library/Application Support/minecraft/mods/")
-<img width="1550" height="794" alt="Screenshot 2025-11-05 185605" src="https://github.com/user-attachments/assets/9b711a12-5329-4f3b-8909-8de292872452" />
+![Uploading Screenshot 2025-11-08 at 4.40.03 AM move vc.png…]()
 
 ## Launch Minecraft 
 
