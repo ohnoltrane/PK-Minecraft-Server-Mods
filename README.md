@@ -44,17 +44,16 @@ Launch with **Fabric** profile, voicechat will work automatically when you join 
 
 ## Install Prism Launcher
 Download Prism Launcher: [Direct Link](https://github.com/PrismLauncher/PrismLauncher/releases/download/9.4/PrismLauncher-macOS-9.4.zip)
-Use this launcher to open Minecraft.
+Use this launcher to open Minecraft. *macOS should be latest version*
 
 ## Launch Minecraft 
 <img width="1112" height="734" alt="Screenshot 2025-11-08 at 4 46 49 AM launch with" src="https://github.com/user-attachments/assets/1119a717-4fbd-4a47-ba68-bd03fc6d60c4" />
 1. Launch with Prism Launcher. When the game first tries to use your mic, macOS should ask permission.
-   - If it doesn’t:
-     - Go to System Preferences → Security & Privacy → Privacy → Microphone
+   - If it doesn't:
+     - Go to System Preferences -> Security & Privacy -> Privacy -> Microphone
      - Make sure Prism Launcher or Java has permission.
-   - If neither appear in that list, open Terminal and run:
-     - `tccutil reset Microphone`
-  - Then relaunch Minecraft and trigger voice chat again — it should now prompt.
+  - If neither appear in that list, open Terminal and run: `tccutil reset Microphone`
+  - Then relaunch Minecraft and trigger voice chat again, it should now prompt.
 
 ## Notes
 - Client version must be latest. (Current: **Minecraft 1.21.10**)
