@@ -33,7 +33,7 @@ Launch with **Fabric** profile, voicechat will work automatically when you join 
 1. Download Fabric: [Direct Link](https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.1.0/fabric-installer-1.1.0.jar)
 2. Run installer with these settings:
    - Minecraft Version: 1.21.10
-   - Loader Version: 0.17.3 <img width="708" height="408" alt="image" src="https://github.com/user-attachments/assets/2ac31d0b-e577-4a2b-b930-9eae4d1608ee" />
+   - Loader Version: 0.17.3 <img width="708" height="408" alt="image" src="https://github.com/user-attachments/assets/2ac31d0b-e577-4a2b-b930-9eae4d1608ee"/>
 ## Install Simple Voice Chat mod
 1. Download Voice Chat mod: [Direct Link](https://cdn.modrinth.com/data/9eGKb6K1/versions/BjR2lc4k/voicechat-fabric-1.21.10-2.6.6.jar) [[Alternative Download](https://github.com/ohnoltrane/PK-Minecraft-Server-Mods/blob/main/voicechat-fabric-1.21.10-2.6.6.jar)]
 2. Download Fabric API: [Direct Link](https://cdn.modrinth.com/data/P7dR8mSH/versions/UuXf1NbU/fabric-api-0.138.0%2B1.21.10.jar)
@@ -44,7 +44,7 @@ Launch with **Fabric** profile, voicechat will work automatically when you join 
 
 ## Install Prism Launcher
 Download Prism Launcher: [Direct Link](https://github.com/PrismLauncher/PrismLauncher/releases/download/9.4/PrismLauncher-macOS-9.4.zip)
-Use this launcher to open Minecraft. *macOS should be latest version*
+<br>Use this launcher to open Minecraft.<br>*macOS should be latest version*
 
 ## Launch Minecraft 
 <img width="1112" height="734" alt="Screenshot 2025-11-08 at 4 46 49 AM launch with" src="https://github.com/user-attachments/assets/1119a717-4fbd-4a47-ba68-bd03fc6d60c4" />
