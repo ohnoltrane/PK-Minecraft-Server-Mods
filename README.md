@@ -46,26 +46,25 @@ Download Prism Launcher: [Direct Link](https://github.com/PrismLauncher/PrismLau
 
 ## Add new Minecraft instance (w/ Fabric)
 1. Press add instance  
-<p align="left"><img src="https://github.com/user-attachments/assets/71c85c33-f0d5-4508-8943-07a8bfd68189" width="700"></p>
-
+<p align="left"><img src="https://github.com/user-attachments/assets/2b349b30-d17e-47a1-96df-d49e21c2de0f" width="700"></p>
 2. Add Fabric and press "OK"  
-<p align="left"><img src="https://github.com/user-attachments/assets/5a3dbefd-0214-4196-b439-4d55ad66474b" width="700"></p>
+<p align="left"><img src="https://github.com/user-attachments/assets/f2ea1343-9ff0-4e08-bd85-2b4b50e4f225" width="700"></p>
 
 ## Add Simple Voice Chat Mod & Fabric API
 1. Press Edit  
-<p align="left"><img src="https://github.com/user-attachments/assets/db2c6fff-47b6-4eb6-98f9-7c7406eb2806" width="700"></p>
+<p align="left"><img src="https://github.com/user-attachments/assets/a08b385c-cb61-437e-a884-63ce51728a88" width="700"></p>
 
 2. In the Mods tab, press "Download mods"  
-<p align="left"><img src="ttps://github.com/user-attachments/assets/25376376-4f47-4d27-b6f7-0d2445238868" width="700"></p>
+<p align="left"><img src="https://github.com/user-attachments/assets/befee863-efe8-4e1c-b20f-54ee4424f0c3" width="700"></p>
 
 3. Search for **Simple Voice Chat** and **Fabric API**, selecting each mod for download.  
-<p align="left"><img src="https://github.com/user-attachments/assets/a580fa6e-524f-4fb1-b02a-342b55010479" width="700"></p>
+<p align="left"><img src="https://github.com/user-attachments/assets/9bae7ffe-c19b-46fa-98dd-13acb1cc39e5" width="700"></p>
 
 4. Confirm mods selection  
-<p align="left"><img src="https://github.com/user-attachments/assets/474b03cf-e3bd-4a40-a683-a726f3a786df" width="700"></p>
+<p align="left"><img src="https://github.com/user-attachments/assets/7920d30c-b950-4040-84e5-5b1a09d8c554" width="700"></p>
 
 ## Launch Minecraft
-<p align="left"><img src="https://github.com/user-attachments/assets/d76a4d16-2714-424a-88ad-261c109e27d8" width="700"></p>
+<p align="left"><img src="https://github.com/user-attachments/assets/b3612ca2-a7b2-48b6-b25a-59b974ab4815" width="700"></p>
 
 1. Launch with **Prism Launcher**.  
    When the game first tries to use your mic, macOS should ask permission.  
