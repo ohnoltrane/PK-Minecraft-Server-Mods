@@ -5,7 +5,7 @@ PK Minecraft server has proximity voicechat.
 The server is playable with the vanilla launcher, but if you want to **use voicechat**, follow the steps below.  
 *Takes 5 mins max.*
 
-[Windows Instructions](https://github.com/ohnoltrane/PK-Minecraft-Server-Mods/blob/main/README.md)  
+[Windows Instructions](https://github.com/ohnoltrane/PK-Minecraft-Server-Mods/blob/main/README.md#windows-instructions)  
 [macOS Instructions](https://github.com/ohnoltrane/PK-Minecraft-Server-Mods/blob/main/README.md#macos-instructions)
 
 ---
