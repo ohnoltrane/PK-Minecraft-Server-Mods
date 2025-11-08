@@ -48,7 +48,6 @@ Launch with the **Fabric** profile — voice chat will work automatically when y
 2. Run installer with these settings:
    - Minecraft Version: `1.21.10`
    - Loader Version: `0.17.3`
-
    ![Fabric Installer Mac Screenshot](https://github.com/user-attachments/assets/2ac31d0b-e577-4a2b-b930-9eae4d1608ee)
 
 ## Install Simple Voice Chat Mod
@@ -81,11 +80,9 @@ Launch with the **Fabric** profile — voice chat will work automatically when y
    - Go to **System Preferences → Security & Privacy → Privacy → Microphone**
    - Make sure Prism Launcher or Java has permission.
    - If neither appear in that list, open **Terminal** and run:
-
      ```bash
      tccutil reset Microphone
      ```
-
    - Then relaunch Minecraft and try voice chat again.
 
 ---
