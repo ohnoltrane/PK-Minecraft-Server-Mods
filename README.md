@@ -50,9 +50,8 @@ Launch with the **Fabric** profile — voice chat will work automatically when y
 
 2. Run installer with these settings:
    - Minecraft Version: `1.21.10`
-   - Loader Version: `0.17.3`
-   ![Fabric Installer Mac Screenshot](https://github.com/user-attachments/assets/2ac31d0b-e577-4a2b-b930-9eae4d1608ee)
-
+   - Loader Version: `0.17.3`  
+![Fabric Installer Mac Screenshot](https://github.com/user-attachments/assets/2ac31d0b-e577-4a2b-b930-9eae4d1608ee)
 ## Install Simple Voice Chat Mod
 1. Download Voice Chat mod:  
    [Direct Link](https://cdn.modrinth.com/data/9eGKb6K1/versions/BjR2lc4k/voicechat-fabric-1.21.10-2.6.6.jar)  
