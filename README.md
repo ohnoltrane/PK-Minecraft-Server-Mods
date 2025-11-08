@@ -64,9 +64,9 @@ Download Prism Launcher: [Direct Link](https://github.com/PrismLauncher/PrismLau
 <p align="left"><img src="https://github.com/user-attachments/assets/7920d30c-b950-4040-84e5-5b1a09d8c554" width="700"></p>
 
 ## Launch Minecraft
+1. Launch with **Prism Launcher**.  
 <p align="left"><img src="https://github.com/user-attachments/assets/b3612ca2-a7b2-48b6-b25a-59b974ab4815" width="700"></p>
 
-1. Launch with **Prism Launcher**.  
    When the game first tries to use your mic, macOS should ask permission.  
 
 <p align="left"><img src="https://github.com/user-attachments/assets/2aea4be3-3dc9-4252-b011-255e6d7410ca" width="700"></p>
