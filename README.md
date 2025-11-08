@@ -22,7 +22,7 @@ The server is playable with the vanilla launcher, but if you want to **use voice
    ![Fabric Installer Screenshot](https://github.com/user-attachments/assets/1bcac0db-b566-4e49-b181-915ca30ba863)
 
 ## Install Simple Voice Chat Mod
-1. Download Voice Chat mod: [Direct Link](https://cdn.modrinth.com/data/9eGKb6K1/versions/BjR2lc4k/voicechat-fabric-1.21.10-2.6.6.jar) [ [Alternative Download](https://github.com/ohnoltrane/PK-Minecraft-Server-Mods/blob/main/voicechat-fabric-1.21.10-2.6.6.jar)]
+1. Download Voice Chat mod: [Direct Link](https://cdn.modrinth.com/data/9eGKb6K1/versions/BjR2lc4k/voicechat-fabric-1.21.10-2.6.6.jar) [[Alternative Download](https://github.com/ohnoltrane/PK-Minecraft-Server-Mods/blob/main/voicechat-fabric-1.21.10-2.6.6.jar)]
 
 2. Move the mod into your Minecraft mods folder:
    - Press **Win + R**
