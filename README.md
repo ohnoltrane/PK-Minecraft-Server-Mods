@@ -42,7 +42,7 @@ Launch with the **Fabric** profile — voice chat will work automatically when y
 
 ## Install Prism Launcher
 Download Prism Launcher: [Direct Link](https://github.com/PrismLauncher/PrismLauncher/releases/download/9.4/PrismLauncher-macOS-9.4.zip)  
-*(macOS should be on the latest version)*
+*(macOS version should be minimum Monterey (12.7.6))*
 
 ## Add new Minecraft instance (w/ Fabric)
 1. Press add instance  
