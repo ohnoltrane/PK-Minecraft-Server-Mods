@@ -6,6 +6,7 @@ The server is playable with the vanilla launcher, but if you want to **use voice
 *Takes 5 mins max.*
 
 [Windows Instructions](https://github.com/ohnoltrane/PK-Minecraft-Server-Mods/blob/main/README.md)
+
 [macOS Instructions](https://github.com/ohnoltrane/PK-Minecraft-Server-Mods/blob/main/README.md#macos-instructions)
 
 ---
