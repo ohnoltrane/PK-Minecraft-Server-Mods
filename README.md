@@ -13,9 +13,7 @@ The server is playable with the vanilla launcher, but if you want to **use voice
 # Windows Instructions
 
 ## Install Fabric
-1. Download Fabric Installer:  
-   [Direct Link](https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.1.0/fabric-installer-1.1.0.exe)  
-   [Alternative Download](https://github.com/ohnoltrane/PK-Minecraft-Server-Mods/blob/main/fabric-installer-1.1.0.exe)
+1. Download Fabric Installer: [Direct Link](https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.1.0/fabric-installer-1.1.0.exe)  [[Alternative Download](https://github.com/ohnoltrane/PK-Minecraft-Server-Mods/blob/main/fabric-installer-1.1.0.exe)]
 
 2. Run the installer with these settings:
    - Minecraft Version: `1.21.10`
@@ -24,9 +22,7 @@ The server is playable with the vanilla launcher, but if you want to **use voice
    ![Fabric Installer Screenshot](https://github.com/user-attachments/assets/1bcac0db-b566-4e49-b181-915ca30ba863)
 
 ## Install Simple Voice Chat Mod
-1. Download Voice Chat mod:  
-   [Direct Link](https://cdn.modrinth.com/data/9eGKb6K1/versions/BjR2lc4k/voicechat-fabric-1.21.10-2.6.6.jar)  
-   [Alternative Download](https://github.com/ohnoltrane/PK-Minecraft-Server-Mods/blob/main/voicechat-fabric-1.21.10-2.6.6.jar)
+1. Download Voice Chat mod: [Direct Link](https://cdn.modrinth.com/data/9eGKb6K1/versions/BjR2lc4k/voicechat-fabric-1.21.10-2.6.6.jar) [ [Alternative Download](https://github.com/ohnoltrane/PK-Minecraft-Server-Mods/blob/main/voicechat-fabric-1.21.10-2.6.6.jar)]
 
 2. Move the mod into your Minecraft mods folder:
    - Press **Win + R**
@@ -44,48 +40,46 @@ Launch with the **Fabric** profile — voice chat will work automatically when y
 
 # macOS Instructions
 
-## Install Fabric
-1. Download Fabric Installer:  
-   [Direct Link](https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.1.0/fabric-installer-1.1.0.jar)
-
-2. Run installer with these settings:
-   - Minecraft Version: `1.21.10`
-   - Loader Version: `0.17.3`  
-![Fabric Installer Mac Screenshot](https://github.com/user-attachments/assets/2ac31d0b-e577-4a2b-b930-9eae4d1608ee)
-## Install Simple Voice Chat Mod
-1. Download Voice Chat mod:  
-   [Direct Link](https://cdn.modrinth.com/data/9eGKb6K1/versions/BjR2lc4k/voicechat-fabric-1.21.10-2.6.6.jar)  
-   [Alternative Download](https://github.com/ohnoltrane/PK-Minecraft-Server-Mods/blob/main/voicechat-fabric-1.21.10-2.6.6.jar)
-
-2. Download Fabric API:  
-   [Direct Link](https://cdn.modrinth.com/data/P7dR8mSH/versions/UuXf1NbU/fabric-api-0.138.0%2B1.21.10.jar)
-
-3. Move both mods into your Minecraft mods folder:
-   - Open **Finder** → press `⌘ + Shift + G`
-   - Type `~/Library/Application Support/minecraft/mods`
-   - Drag both downloaded files into that folder.
-
-   ![Mods Folder Mac Screenshot](https://github.com/user-attachments/assets/4afe56a8-ca25-4577-b5d8-3965c4c7cd5e)
-
 ## Install Prism Launcher
-- Download Prism Launcher:  
-  [Direct Link](https://github.com/PrismLauncher/PrismLauncher/releases/download/9.4/PrismLauncher-macOS-9.4.zip)
-- Use this launcher to open Minecraft.  
-  *(macOS should be on the latest version)*
+Download Prism Launcher: [Direct Link](https://github.com/PrismLauncher/PrismLauncher/releases/download/9.4/PrismLauncher-macOS-9.4.zip)  
+*(macOS should be on the latest version)*
+
+## Add new Minecraft instance (w/ Fabric)
+1. Press add instance  
+<p align="left"><img src="https://github.com/user-attachments/assets/acd4ec6c-5f15-4ab9-838b-2117384cfd6a" width="700"></p>
+
+2. Add Fabric and press "OK"  
+<p align="left"><img src="https://github.com/user-attachments/assets/75de6d75-2a58-4f69-927b-0a39f3702108" width="700"></p>
+
+## Add Simple Voice Chat Mod & Fabric API
+1. Press Edit  
+<p align="left"><img src="https://github.com/user-attachments/assets/4c2fc6e6-c49e-456b-bdda-980d2045b781" width="700"></p>
+
+2. In the Mods tab, press "Download mods"  
+<p align="left"><img src="https://github.com/user-attachments/assets/abfb86b9-781d-4892-9e75-36d24ee80d4f" width="700"></p>
+
+3. Search for **Simple Voice Chat** and **Fabric API**, selecting each mod for download.  
+<p align="left"><img src="https://github.com/user-attachments/assets/b960d90c-ae20-4029-b217-fcb1e42e9852" width="700"></p>
+
+4. Confirm mods selection  
+<p align="left"><img src="https://github.com/user-attachments/assets/8f0f8c77-b0c3-4b67-8a95-13287fb0ed9a" width="700"></p>
 
 ## Launch Minecraft
-![Prism Launcher Screenshot](https://github.com/user-attachments/assets/1119a717-4fbd-4a47-ba68-bd03fc6d60c4)
+<p align="left"><img src="https://github.com/user-attachments/assets/3dd8f423-1edf-4b89-913d-7212d37dbb07" width="700"></p>
 
 1. Launch with **Prism Launcher**.  
-   When the game first tries to use your mic, macOS should ask permission.
-2. If it doesn't:
+   When the game first tries to use your mic, macOS should ask permission.  
+
+<p align="left"><img src="https://github.com/user-attachments/assets/2aea4be3-3dc9-4252-b011-255e6d7410ca" width="700"></p>
+
+3. If it doesn't:
    - Go to **System Preferences → Security & Privacy → Privacy → Microphone**
    - Make sure Prism Launcher or Java has permission.
    - If neither appear in that list, open **Terminal** and run:
      ```bash
      tccutil reset Microphone
      ```
-   - Then relaunch Minecraft and try voice chat again.
+   - Then relaunch Prism Launcher and try a Minecraft server again.
 
 ---
 
